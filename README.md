@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋 I'm Buddhika Sampath
 
-<!--
-**buddhikas685/buddhikas685** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Age: 21
+- 💻 Undergraduate student currently following **BSc (Hons) in Software Engineering**
+- 🌱 Currently learning and improving my programming skills
+- 🚀 Interested in software development and new technologies
 
-Here are some ideas to get you started:
+## Skills & Learning
+I am currently learning and practicing:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming
+- Python
+- HTML
+- CSS
+
+## Goals
+- Improve my programming and problem-solving skills
+- Build useful software projects
+- Contribute to open source projects
+- Become a professional Software Engineer
+
+## Contact
+- GitHub: https://github.com/your-username
+
+---
+⭐ Always learning and building new things.
