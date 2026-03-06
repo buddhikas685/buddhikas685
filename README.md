@@ -21,7 +21,7 @@ I am currently learning and practicing:
 - Become a professional Software Engineer
 
 ## Contact
-- GitHub: https://github.com/your-username
+- GitHub: buddhikas685@gmail.com
 
 ---
 ⭐ Always learning and building new things.
